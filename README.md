@@ -1,4 +1,4 @@
-Inventory System
+# Inventory System
 
 School project from WGU that allows you to add and modify parts which can be used to create a product.
 
